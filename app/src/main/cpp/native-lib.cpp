@@ -1,5 +1,6 @@
 #include <unistd.h>
 #include "com_kimliu_fmodproject_MainActivity.h"
+#include "inc/fmod.hpp"
 
 using namespace FMOD;
 

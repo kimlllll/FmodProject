@@ -6,7 +6,7 @@
 
 // xxx.hpp 是头文件而已
 
-#include <fmod.hpp> // TODO 最后一步 FMOD的头文件，必须导入，才能使用功能
+#include "inc/fmod.hpp" // TODO 最后一步 FMOD的头文件，必须导入，才能使用功能
 
 #include <string>
 
